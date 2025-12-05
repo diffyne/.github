@@ -53,7 +53,13 @@ We welcome contributions from developers of all skill levels! Here's how you can
 
 ## 📊 Organization Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diffyne&show_icons=true&theme=radical)
+<div align="center">
+  
+  ![GitHub Org's stars](https://img.shields.io/github/stars/diffyne?affiliations=OWNER&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/diffyne?style=for-the-badge)
+  ![GitHub Org's repositories](https://img.shields.io/badge/repositories-1-blue?style=for-the-badge)
+  
+</div>
 
 ## 🛠️ Tech Stack
 
